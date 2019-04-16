@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "723538415449",
+    "firebase_url": "https://sake-bord.firebaseio.com",
+    "project_id": "sake-bord",
+    "storage_bucket": "sake-bord.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723538415449:android:0a544fcf3f8e3328",
+        "android_client_info": {
+          "package_name": "com.sakeboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723538415449-u8i0gvs8ucstahn457ro7rlce1end8ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGJx15BOuXZaKCX2NS0LmAg78Uy6QA2r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723538415449-u8i0gvs8ucstahn457ro7rlce1end8ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
